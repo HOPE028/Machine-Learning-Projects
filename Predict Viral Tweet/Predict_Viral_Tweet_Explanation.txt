@@ -1,0 +1,6 @@
+In this project, K-Nearest Neighbor algorithm is used to predict whether a tweet will go viral. By using real tweets from the 'random_tweets.json', all forms of data can be used to help boost model accuracy.
+
+Features considered were: Average length of word, the number of hashtags used, the number of links used, follower count of user who tweeted, friends count of user who tweeted, total tweet length, how many favorites the tweet got, whether the account tweeting was verified, if the account tweeting had a default profile image, and finally if the profile was a default profile.  
+
+Model Accuracy: 74.549%. 
+

@@ -1,0 +1,5 @@
+In this project, Naive Bayes Classifier is used to find patterns in real tweets. The data from the following files will be used: new_york.json, london.json, and paris.json. These three files contain tweets that we gathered from those locations.
+
+The goal is to create a classification algorithm that can classify any tweet (or sentence) and predict whether that sentence came from New York, London, or Paris.
+
+Model Accuracy: 67.793%
